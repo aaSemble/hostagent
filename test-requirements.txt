@@ -1,0 +1,5 @@
+nose
+flake8
+flake8-import-order
+mock
+coverage
